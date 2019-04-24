@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+
+
+
+}
+nav {
+    display: flex;
+    position: fixed;
+    right: 60px;
+    top: 20px;
+    z-index: 10;
+    mix-blend-mode: luminosity;
+}
+
+section.intro {
+
+    min-height: 100vh;
+
+
+
+}
+
+.logo {
+   
+    position: absolute;
+    top: 60px;
+    left: 60px;
+   
+
+}
